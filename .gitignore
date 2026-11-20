@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+*.log
+.env
+.env.*
+# local run material from the harness (test-set answers, model output)
+runs/
+export_run.py

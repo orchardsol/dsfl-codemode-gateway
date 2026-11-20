@@ -51,3 +51,7 @@ uv run python probe.py http://127.0.0.1:18090/mcp
 Each `execute` program may make up to 10,000 tool calls and is stopped after 280 seconds of wall-clock time. Nothing is kept between `execute` calls.
 
 The gateway needs no credentials: the upstream servers are public.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
